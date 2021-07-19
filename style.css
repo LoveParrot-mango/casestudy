@@ -1,0 +1,47 @@
+h1 
+{
+    font-family: 'Special Elite', cursive;
+}
+
+img
+{
+    height: 150px;
+    width: 150px;
+}
+
+#head {
+    font-size: 40px;
+    font-family:'Fira Sans';
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 50%;
+    z-index: 9;
+}
+
+#azure, #net {
+    height: 100px;
+    width: 120px;
+}
+
+h5{
+    font-size: 30px;
+}
+
+#info {
+    font-size: 16px;
+    font-family: "Eczar";
+}
